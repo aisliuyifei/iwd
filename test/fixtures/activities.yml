@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  orgnizer_id: 1
+  name: MyString
+  open_date: 2015-05-11 16:05:46
+  description: MyText
+
+two:
+  orgnizer_id: 1
+  name: MyString
+  open_date: 2015-05-11 16:05:46
+  description: MyText
